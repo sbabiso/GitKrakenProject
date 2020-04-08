@@ -6,11 +6,38 @@ Description:
 Baked wonton wrappers filled with cheesy sausage. 
 Additional text for Appetizers
 
+
+some more changes to ap.....
 Description:
 This is perfect for parties.
 
 This is added by Sam Babiso ....
 Servings: 45
+
+
+Additional text for Appetizers
+
+Description:
+This is perfect for parties.
+
+Servings: 45
+
+Preparation Time
+Prep: 15 m
+Cook: 20 m
+Ready In: 35 m
+
+Recipe by: 
+
+
+!!! This below will be used for brancing lesson
+Additional Text for Branching
+Commit 1
+Add 1/2 tablespoon of Spring Roll Dipping Sauce.
+
+Commit 2
+Or put the sauce on the side for individual dipping.
+
 
 Preparation Time
 Prep: 15 ma
